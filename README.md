@@ -36,5 +36,3 @@ Anyone can search for movies and view basic information like poster, release yea
 The application will be available at:
 `http://localhost:3000`
 
-
-

@@ -19,4 +19,22 @@ Anyone can search for movies and view basic information like poster, release yea
 * CSS
 * OMDb API
 
+# Getting Started
+
+### Clone the repository
+`git clone https://github.com/ShivuXD/PopcornDB.git`
+
+### Navigate to the project directory
+`cd PopcornDB`
+
+### Install dependencies
+`npm install`
+
+### Start the development server
+`npm start`
+
+The application will be available at:
+`http://localhost:3000`
+
+
 

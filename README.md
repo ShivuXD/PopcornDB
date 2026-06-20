@@ -7,14 +7,13 @@ Anyone can search for movies and view basic information like poster, release yea
 ## Features
 
 * Search movies using the OMDb API
-* Display movie posters
-* Show movie title, year, and type
+* Displays movie title, poster , year, and type
 * Responsive card-based layout
 * Real-time movie search
 
 ## Tech Stack
 
-* React
+* React 19
 * JavaScript
 * CSS
 * OMDb API

@@ -19,6 +19,7 @@ Anyone can search for movies and view basic information like poster, release yea
 * CSS
 * OMDb API
 
+
 # Getting Started
 
 ### Clone the repository

@@ -25,7 +25,7 @@ const App = () => {
         <div className="app">
             <h1>PopcornDB</h1>
             
-            <div className="search">
+            <div className="search"> 
                 <input
                 placeholder="Search for any movies & shows.."
                 value={searchTerm}
